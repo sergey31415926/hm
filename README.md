@@ -3,7 +3,7 @@
 <details>
   <summary>Док-во</summary>
   
-  Покажем, что $ \forall \epsilon > 0 $
+  Покажем, что $` \forall \epsilon > 0 `$
   
   ```javascript
   console.log("I'm a code block!");
@@ -13,4 +13,4 @@
 
 $$ \forall $$
 
-$ \forall \epsilon > 0 $
+$` \forall \epsilon > 0 `$
