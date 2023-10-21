@@ -2,9 +2,9 @@
 
 <details>
     <summary>Док-во</summary>
-    ```
-    import numpy as np
     ```python
+    import numpy as np
+    ```
     Покажем, что $ \forall $
 </details>
 
