@@ -13,4 +13,4 @@
 
 $$ \forall $$
 
-$ \forall \epsilon > 0 $
+$` \forall \epsilon > 0 `$
