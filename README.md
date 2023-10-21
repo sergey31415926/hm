@@ -12,3 +12,5 @@
 </details>
 
 $$ \forall $$
+
+$ \forall \epsilon > 0 $
